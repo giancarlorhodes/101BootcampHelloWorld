@@ -10,6 +10,13 @@ namespace _101BootcampConsoleAppHelloWorld
     {
         static void Main(string[] args)
         {
+
+            // some code will follow this 
+
+
+            // comment
+
+
         }
     }
 }
